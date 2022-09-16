@@ -10,8 +10,6 @@
 </p>
 <!--End-->
 
-<img src="./assets/github-contribution-grid-snake.svg" width="100%" />
-
 #### Blog Recently
 
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
