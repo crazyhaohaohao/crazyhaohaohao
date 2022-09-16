@@ -9,7 +9,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=crazyhaohaohao.crazyhaohaohao" />
 </p>
 <!--End-->
-<img src="http://github-readme-streak-stats.herokuapp.com?user=crazyhaohaohao&theme=radical" width="100%" />
 
 <img src="./assets/github-contribution-grid-snake.svg" width="100%" />
 
